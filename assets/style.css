@@ -60,3 +60,47 @@
     font-size: 30px;
     color: azure;
 }
+.aboutUs{
+    min-height: 60vh;
+    width: 100%;
+    position: relative;
+}
+.aboutdiv{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.aboutimg img{
+    max-width: 82%;
+    max-height: 85%;
+}
+.About-content{
+    margin-top: 150px;
+    margin-right: 400px;
+    left: 400px;
+}
+.About-content hr{
+    height: 3px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to left,black,#FAFF00);
+    margin-bottom: 8px;
+}
+.About-content h4{
+    margin-top: 16px;
+    font-size: 24px;
+}
+.About-content p{
+    font-size: 18px;
+    margin-top: 8px;
+}
+.About-content button{
+    margin-top: 50px;
+    color: #FAFF00;
+    background: black;
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 0px 8px 0px 0px;
+}
