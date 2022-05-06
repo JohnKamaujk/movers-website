@@ -126,22 +126,32 @@
     font-size: 32px;
 }
 .column1{
-    width: 33.33%;
+    width: 24%;
     float: left;
+    margin-left: 140px;
+    background-color: #fff;
+    border-radius: 18px;
 }
 .column1 img{
     max-width: 100%;
 }
 .column2{
-    width: 33.33%;
+    width: 24%;
     float: left;
+    margin-right: 120px;
+    padding-left: 90px;
+    background-color: #fff;
+    border-radius: 18px;
 }
 .column2 img{
     max-width: 100%;
 }
 .column3{
-    float: right;
-    width: 33.3%;
+    float: left;
+    width: 24%;
+    margin-right: 70px;
+    background-color: #fff;
+    border-radius: 18px;
 }
 .column3 img{
     max-width: 100%;
