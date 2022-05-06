@@ -125,3 +125,24 @@
 .topmovers h1{
     font-size: 32px;
 }
+.column1{
+    width: 33.33%;
+    float: left;
+}
+.column1 img{
+    max-width: 100%;
+}
+.column2{
+    width: 33.33%;
+    float: left;
+}
+.column2 img{
+    max-width: 100%;
+}
+.column3{
+    float: right;
+    width: 33.3%;
+}
+.column3 img{
+    max-width: 100%;
+}
