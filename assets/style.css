@@ -176,14 +176,14 @@
     color: #FAFF00;
 }
 .contact hr{
-    width: 1080px;
+    width: 1100px;
     border: 0.5px solid #dddddd;
     margin-left: 150px;
     margin-top: 30px;
 }
 .icons{
     margin-top: 70px;
-    margin-left: 130px;
+    margin-left: 120px;
 }
 .icons img{
     width: 30px;
@@ -193,5 +193,5 @@
 .contact-clmn p{
     color: #dddddd;
     font-size: 10px;
-    margin-left: 200px;
+    margin-left: 220px;
 }
