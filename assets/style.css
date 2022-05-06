@@ -104,3 +104,24 @@
     border: 1px solid black;
     border-radius: 0px 8px 0px 0px;
 }
+.movers{
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    background-color: #EFEBDE;
+}
+.topmovers{
+    margin-left: 50px;
+    padding: 100px;
+}
+.topmovers hr{
+    height: 3px;
+    width: 120px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to left,black,#FAFF00);
+    margin-bottom: 12px;
+}
+.topmovers h1{
+    font-size: 32px;
+}
