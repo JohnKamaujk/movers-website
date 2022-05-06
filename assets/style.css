@@ -162,6 +162,10 @@
     position: relative;
     background-color: #000;
 }
+.contact-box{
+    display: flex;
+    flex-direction: row;
+}
 .contact p{
     color: #fff;
     font-size: 28px;
@@ -172,8 +176,22 @@
     color: #FAFF00;
 }
 .contact hr{
-    width: 1200px;
+    width: 1080px;
     border: 0.5px solid #dddddd;
     margin-left: 150px;
     margin-top: 30px;
+}
+.icons{
+    margin-top: 70px;
+    margin-left: 130px;
+}
+.icons img{
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+.contact-clmn p{
+    color: #dddddd;
+    font-size: 10px;
+    margin-left: 200px;
 }
