@@ -58,7 +58,7 @@
     font-weight: 200;
 }
 .middle{
-    min-height: 250vh;
+    min-height: 270vh;
     width: 100%;
     position: relative;
     background-color: #EFEBDE;
@@ -174,4 +174,37 @@ form button{
     font-size: 12px;
     font-weight: 300;
     padding: 4px 8px;
+}
+.listings{
+    margin-top: 100px;
+    margin-left:250px;
+}
+.listings hr{
+    height: 3px;
+    width: 130px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to left,black,#FFAC12);
+    margin-bottom: 12px;
+}
+.listings-txt{
+    font-size: 32px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+.div-listings{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.div-listings img{
+    max-width: 94%;
+    max-height: 84%;
+}
+.listing-clmn1,.listing-clmn2,.listing-clmn3,.listing-clmn4{
+    background: #fff;
+    border-radius: 12px;
+    margin: 0px 4px;
+    background-size: contain;
 }
