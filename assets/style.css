@@ -39,9 +39,10 @@
 }
 .logbtn2{
     color:#FAFF00;
-    border:none;
+    border:1px solid black;
+    border-radius: 10px;
     background-color: black;
-    padding:2px 6px;
+    padding:3px 6px;
     height: 4px;
 }
 .div1{
