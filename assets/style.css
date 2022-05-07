@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .header{
-    min-height: 100vh;
+    min-height: 110vh;
     width: 100%;
     background-image: url(../assets/images/moving\ 1.png);
     background-position: center;
@@ -34,14 +34,14 @@
     color: black;
     border: 1px solid;
     background-color: yellow;
-    padding: 1px;
+    padding:2px 6px;
     height: 4px;
 }
 .logbtn2{
     color:#FAFF00;
-    border: 1px solid;
+    border:none;
     background-color: black;
-    padding: 1px;
+    padding:2px 6px;
     height: 4px;
 }
 .div1{
@@ -71,8 +71,8 @@
     margin-top: 30px;
 }
 .aboutimg img{
-    max-width: 82%;
-    max-height: 85%;
+    max-width: 85%;
+    max-height: 90%;
 }
 .About-content{
     margin-top: 150px;
@@ -124,6 +124,10 @@
 }
 .topmovers h1{
     font-size: 32px;
+}
+.movers p{
+    text-align: center;
+    font-weight: 500;
 }
 .column1{
     width: 24%;
