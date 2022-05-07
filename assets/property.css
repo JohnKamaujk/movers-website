@@ -58,7 +58,7 @@
     font-weight: 200;
 }
 .middle{
-    min-height: 130vh;
+    min-height: 180vh;
     width: 100%;
     position: relative;
     background-color: #EFEBDE;
@@ -112,4 +112,40 @@ form button{
     height: 40px;
     border: 1px solid black;
     border-radius: 0px 8px 0px 0px;
+}
+.div-details{
+    background: #fff;
+    margin-top: 20px;
+    margin-left: 250px;
+    max-width: 740px;
+    height: 80px;
+    border-radius: 12px;
+}
+.div-details p{
+    padding: 8px 16px;
+    font-weight: 500;
+}
+.details-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.div-description{
+    background: #fff;
+    margin-top: 20px;
+    margin-left: 250px;
+    max-width: 740px;
+    height: 280px;
+    border-radius: 12px;
+}
+.heading{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 4px 8px;
+}
+.txt{
+    font-size: 14px;
+    font-weight: 200;
+    padding: 4px 8px;
 }
